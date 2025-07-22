@@ -49,7 +49,7 @@ The analysis was performed using Python and the following libraries:
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
     ```
-3.  Run the [Customer Churn Prediction.ipynb](Customer Churn Prediction.ipynb) notebook.
+3.  **Run the `Customer Churn Prediction.ipynb`**
 
 ## Author
 Antony Njoroge
